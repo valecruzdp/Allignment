@@ -6,7 +6,7 @@ Google drive link: https://drive.google.com/drive/folders/1EKgWmTmJ9399LF_ljGKqd
 
 In the *assignments.xlsx* file you'll find what are the interactions assigned to you.
 
-Given an interaction assigned to you, you must download both files to your local computer and also download Praat editor for opening these files. You can download it clicking in the following link:
+Given an interaction assigned to you, you must download the respective audio files to your local computer, pull the git projects, and also download Praat editor for opening these files. You can download it clicking in the following link:
 
 Praat link: https://www.fon.hum.uva.nl/praat/
 
