@@ -1,0 +1,512 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 386.0
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "Ch1"
+        xmin = 0.0
+        xmax = 386.0
+        intervals: size = 67
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.024
+            text = ""
+        intervals [2]
+            xmin = 0.024
+            xmax = 1.221
+            text = "hello"
+        intervals [3]
+            xmin = 1.221
+            xmax = 2.551
+            text = ""
+        intervals [4]
+            xmin = 2.551
+            xmax = 4.92
+            text = "I want"
+        intervals [5]
+            xmin = 4.92
+            xmax = 8.328
+            text = ""
+        intervals [6]
+            xmin = 8.328
+            xmax = 11.646
+            text = "how is your house, how is you apartment "
+        intervals [7]
+            xmin = 11.646
+            xmax = 38.432
+            text = ""
+        intervals [8]
+            xmin = 38.432
+            xmax = 39.85
+            text = "and.."
+        intervals [9]
+            xmin = 39.85
+            xmax = 42.18
+            text = "emm it´s "
+        intervals [10]
+            xmin = 42.18
+            xmax = 44.81
+            text = ""
+        intervals [11]
+            xmin = 44.81
+            xmax = 45.925
+            text = "Hey He Yes Locate on global Idiot"
+        intervals [12]
+            xmin = 45.925
+            xmax = 46.998
+            text = "it´s in.."
+        intervals [13]
+            xmin = 46.998
+            xmax = 50.43
+            text = ""
+        intervals [14]
+            xmin = 50.43
+            xmax = 52.533
+            text = "it´s in the city ?"
+        intervals [15]
+            xmin = 52.533
+            xmax = 56.514
+            text = ""
+        intervals [16]
+            xmin = 56.514
+            xmax = 58.102
+            text = "located"
+        intervals [17]
+            xmin = 58.102
+            xmax = 60.836
+            text = ""
+        intervals [18]
+            xmin = 60.836
+            xmax = 66.843
+            text = "mm ok. In your apartment have "
+        intervals [19]
+            xmin = 66.843
+            xmax = 71.99
+            text = "have you are balcony"
+        intervals [20]
+            xmin = 71.99
+            xmax = 81.665
+            text = ""
+        intervals [21]
+            xmin = 81.665
+            xmax = 83.124
+            text = "balcony"
+        intervals [22]
+            xmin = 83.124
+            xmax = 85.346
+            text = ""
+        intervals [23]
+            xmin = 85.346
+            xmax = 88.25
+            text = "I can´t "
+        intervals [24]
+            xmin = 88.25
+            xmax = 96.415
+            text = "I can´t buy pets in my apartment"
+        intervals [25]
+            xmin = 96.415
+            xmax = 97.703
+            text = "We not online Cause the animals will"
+        intervals [26]
+            xmin = 97.703
+            xmax = 99.976
+            text = "why, I like animals "
+        intervals [27]
+            xmin = 99.976
+            xmax = 123.366
+            text = ""
+        intervals [28]
+            xmin = 123.366
+            xmax = 129.587
+            text = "ah ok, about the the"
+        intervals [29]
+            xmin = 129.587
+            xmax = 131.089
+            text = ""
+        intervals [30]
+            xmin = 131.089
+            xmax = 139.24
+            text = "the cost of the Most Of the cars emm the beach... and "
+        intervals [31]
+            xmin = 139.24
+            xmax = 142.85
+            text = "and these not..."
+        intervals [32]
+            xmin = 142.85
+            xmax = 158.206
+            text = ""
+        intervals [33]
+            xmin = 158.206
+            xmax = 160.531
+            text = "[?]"
+        intervals [34]
+            xmin = 160.531
+            xmax = 163.689
+            text = "I can invite my friend to "
+        intervals [35]
+            xmin = 163.689
+            xmax = 164.151
+            text = ""
+        intervals [36]
+            xmin = 164.151
+            xmax = 165.839
+            text = "take to to to"
+        intervals [37]
+            xmin = 165.839
+            xmax = 166.144
+            text = ""
+        intervals [38]
+            xmin = 166.144
+            xmax = 168.4
+            text = "to sleep in, in, in my house?"
+        intervals [39]
+            xmin = 168.4
+            xmax = 178.397
+            text = ""
+        intervals [40]
+            xmin = 178.397
+            xmax = 183.245
+            text = "from morning"
+        intervals [41]
+            xmin = 183.245
+            xmax = 196.742
+            text = ""
+        intervals [42]
+            xmin = 196.742
+            xmax = 199.02
+            text = "if"
+        intervals [43]
+            xmin = 199.02
+            xmax = 201.57
+            text = "We"
+        intervals [44]
+            xmin = 201.57
+            xmax = 204.714
+            text = ""
+        intervals [45]
+            xmin = 204.714
+            xmax = 213.821
+            text = "around your apartment ..your edifice  have market "
+        intervals [46]
+            xmin = 213.821
+            xmax = 233.985
+            text = ""
+        intervals [47]
+            xmin = 233.985
+            xmax = 236.4
+            text = "and the transport is "
+        intervals [48]
+            xmin = 236.4
+            xmax = 240.42
+            text = "is more convenient "
+        intervals [49]
+            xmin = 240.42
+            xmax = 249.77
+            text = ""
+        intervals [50]
+            xmin = 249.77
+            xmax = 259.44
+            text = "umm there are park .."
+        intervals [51]
+            xmin = 259.44
+            xmax = 264.42
+            text = ""
+        intervals [52]
+            xmin = 264.42
+            xmax = 268.13
+            text = "near to your apartment"
+        intervals [53]
+            xmin = 268.13
+            xmax = 277.528
+            text = ""
+        intervals [54]
+            xmin = 277.528
+            xmax = 279.32
+            text = "can you need "
+        intervals [55]
+            xmin = 279.32
+            xmax = 298.957
+            text = ""
+        intervals [56]
+            xmin = 298.957
+            xmax = 303.78
+            text = "The people in the scene seem"
+        intervals [57]
+            xmin = 303.78
+            xmax = 308.511
+            text = "So long be in shape and very nice?"
+        intervals [58]
+            xmin = 308.511
+            xmax = 326.165
+            text = ""
+        intervals [59]
+            xmin = 326.165
+            xmax = 330.898
+            text = "I will be good your home"
+        intervals [60]
+            xmin = 330.898
+            xmax = 344.171
+            text = "ok and in you satisfied  with price of the rent and money "
+        intervals [61]
+            xmin = 344.171
+            xmax = 351.412
+            text = ""
+        intervals [62]
+            xmin = 351.412
+            xmax = 353.515
+            text = "ok no problem"
+        intervals [63]
+            xmin = 353.515
+            xmax = 354.44
+            text = ""
+        intervals [64]
+            xmin = 354.44
+            xmax = 362.349
+            text = "How is not any I can we can we can have local about your apartment"
+        intervals [65]
+            xmin = 362.349
+            xmax = 382.655
+            text = ""
+        intervals [66]
+            xmin = 382.655
+            xmax = 385.229
+            text = "ok lets go "
+        intervals [67]
+            xmin = 385.229
+            xmax = 386.0
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "Ch2"
+        xmin = 0.0
+        xmax = 386.0
+        intervals: size = 56
+        intervals [1]
+            xmin = 0.0
+            xmax = 1.221
+            text = ""
+        intervals [2]
+            xmin = 1.221
+            xmax = 2.594
+            text = "hello"
+        intervals [3]
+            xmin = 2.594
+            xmax = 11.646
+            text = ""
+        intervals [4]
+            xmin = 11.646
+            xmax = 18.9
+            text = "The apart, the apartment is a studio apartment and it has "
+        intervals [5]
+            xmin = 18.9
+            xmax = 31.014
+            text = "seis. six6.... and the I have a kitchen"
+        intervals [6]
+            xmin = 31.014
+            xmax = 35.16
+            text = "badroom, bedroom and the "
+        intervals [7]
+            xmin = 35.16
+            xmax = 39.85
+            text = "...."
+        intervals [8]
+            xmin = 39.85
+            xmax = 54.026
+            text = ""
+        intervals [9]
+            xmin = 54.026
+            xmax = 61.099
+            text = "ah yes, it´s it´s the located, located in Candelaria"
+        intervals [10]
+            xmin = 61.099
+            xmax = 71.985
+            text = ""
+        intervals [11]
+            xmin = 71.985
+            xmax = 80.823
+            text = "umm no, it´s because, the apartment is small, tiny and we don´t have "
+        intervals [12]
+            xmin = 80.823
+            xmax = 96.887
+            text = ""
+        intervals [13]
+            xmin = 96.887
+            xmax = 97.66
+            text = "no"
+        intervals [14]
+            xmin = 97.66
+            xmax = 99.976
+            text = ""
+        intervals [15]
+            xmin = 99.976
+            xmax = 105.66
+            text = "because I was view"
+        intervals [16]
+            xmin = 105.66
+            xmax = 112.18
+            text = "doens´t smell well , and the and the you.. if you don´t stay"
+        intervals [17]
+            xmin = 112.18
+            xmax = 119.775
+            text = "at home,they wanted, the pet don´t want to (cuidar)"
+        intervals [18]
+            xmin = 119.775
+            xmax = 123.366
+            text = "to take care after and"
+        intervals [19]
+            xmin = 123.366
+            xmax = 131.851
+            text = ""
+        intervals [20]
+            xmin = 131.851
+            xmax = 132.967
+            text = "the cost."
+        intervals [21]
+            xmin = 132.967
+            xmax = 143.813
+            text = ""
+        intervals [22]
+            xmin = 143.813
+            xmax = 151.2
+            text = "the rent it is two thousand pesos with the"
+        intervals [23]
+            xmin = 151.2
+            xmax = 157.402
+            text = "with the gas, the gas, the water, internet and light including"
+        intervals [24]
+            xmin = 157.402
+            xmax = 168.933
+            text = ""
+        intervals [25]
+            xmin = 168.933
+            xmax = 171.479
+            text = "umm yes, but only the weekend "
+        intervals [26]
+            xmin = 171.479
+            xmax = 174.896
+            text = "in the during set not during or"
+        intervals [27]
+            xmin = 174.896
+            xmax = 181.873
+            text = ""
+        intervals [28]
+            xmin = 181.873
+            xmax = 187.11
+            text = "or friday you invite friend to the apartment"
+        intervals [29]
+            xmin = 187.11
+            xmax = 194.6
+            text = "because of it´s the rules of the of this ... of this "
+        intervals [30]
+            xmin = 194.6
+            xmax = 211.701
+            text = ""
+        intervals [31]
+            xmin = 211.701
+            xmax = 215.51
+            text = "yes we have, we have the"
+        intervals [32]
+            xmin = 215.51
+            xmax = 223.785
+            text = "exito and Ara, and the other, other apartments and the "
+        intervals [33]
+            xmin = 223.785
+            xmax = 229.34
+            text = "restaurant ... the other one um restaurant and supermarket"
+        intervals [34]
+            xmin = 229.34
+            xmax = 236.4
+            text = "and the .."
+        intervals [35]
+            xmin = 236.4
+            xmax = 238.447
+            text = ""
+        intervals [36]
+            xmin = 238.447
+            xmax = 243.338
+            text = "yes, you can take the transmilenio in front of the apartment"
+        intervals [37]
+            xmin = 243.338
+            xmax = 249.77
+            text = "there is a station of transmilenio and you can walk there"
+        intervals [38]
+            xmin = 249.77
+            xmax = 259.44
+            text = "..."
+        intervals [39]
+            xmin = 259.44
+            xmax = 268.13
+            text = ""
+        intervals [40]
+            xmin = 268.13
+            xmax = 274.234
+            text = "there is a park, but it´s a little far away and takes"
+        intervals [41]
+            xmin = 274.234
+            xmax = 279.32
+            text = "20 minutes if you walk"
+        intervals [42]
+            xmin = 279.32
+            xmax = 284.06
+            text = "it´s a park but it´s not very big "
+        intervals [43]
+            xmin = 284.06
+            xmax = 292.688
+            text = "it´s more a small park , but you can you can run or hacer ejercicio"
+        intervals [44]
+            xmin = 292.688
+            xmax = 302.958
+            text = "or doing excercise I think"
+        intervals [45]
+            xmin = 302.958
+            xmax = 308.511
+            text = ""
+        intervals [46]
+            xmin = 308.511
+            xmax = 313.996
+            text = "umm yes, but people in this floor"
+        intervals [47]
+            xmin = 313.996
+            xmax = 314.44
+            text = ""
+        intervals [48]
+            xmin = 314.44
+            xmax = 323.727
+            text = "so they are students of the university and the people who work around here"
+        intervals [49]
+            xmin = 323.727
+            xmax = 343.914
+            text = ""
+        intervals [50]
+            xmin = 343.914
+            xmax = 351.498
+            text = "two thousand mil pesos . two thousand mil pesos .. two million pesos ..."
+        intervals [51]
+            xmin = 351.498
+            xmax = 353.515
+            text = "pero"
+        intervals [52]
+            xmin = 353.515
+            xmax = 360.848
+            text = ""
+        intervals [53]
+            xmin = 360.848
+            xmax = 368.731
+            text = "yeah sure and you can use the gym in the top of this building"
+        intervals [54]
+            xmin = 368.731
+            xmax = 375.632
+            text = "and there are.. there is amm is the swimming pool "
+        intervals [55]
+            xmin = 375.632
+            xmax = 382.833
+            text = "if you want to use, yo can call the lady in the reception and she will give the keys "
+        intervals [56]
+            xmin = 382.833
+            xmax = 386.0
+            text = ""
